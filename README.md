@@ -3,7 +3,15 @@
 ## Software Engineer
 I’m a software engineer with a strong focus on front-end development. I specialize in building responsive, user-friendly web applications using modern technologies like React, Tailwind CSS, and JavaScript. Passionate about clean code and intuitive user experiences, I enjoy turning complex problems into elegant, interactive interfaces.
 
+### 💻 Tech Stack
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</p>
 
 <!--
 **Epignosis1/Epignosis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
