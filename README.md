@@ -3,6 +3,12 @@
 ## Software Engineer
 I’m a software engineer with a strong focus on front-end development. I specialize in building responsive, user-friendly web applications using modern technologies like React, Tailwind CSS, and JavaScript. Passionate about clean code and intuitive user experiences, I enjoy turning complex problems into elegant, interactive interfaces.
 
+- ✔  I'm  based in Lagos, Nigeria
+- 💬 You can contact me at victoromelebele2@gmail.com
+- 🤝 I'm open to collaboarate on any interesting project
+- 🚀 I'm currently working towards being a full-stack enginieer
+- 😜 I'm secretly spider man but dont tell anyone
+
 ### 💻 Tech Stack
 
 <p align="left">
@@ -18,8 +24,6 @@ I’m a software engineer with a strong focus on front-end development. I specia
 
 ## Badges
 My Github stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epignosis1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epignosis1&layout=compact&theme=radical)
 
