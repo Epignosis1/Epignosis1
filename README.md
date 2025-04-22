@@ -1,6 +1,9 @@
 ## Hi there 👋 My name is Victor Chiedu
 
-## 
+## Software Engineer
+I’m a software engineer with a strong focus on front-end development. I specialize in building responsive, user-friendly web applications using modern technologies like React, Tailwind CSS, and JavaScript. Passionate about clean code and intuitive user experiences, I enjoy turning complex problems into elegant, interactive interfaces.
+
+
 
 <!--
 **Epignosis1/Epignosis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
