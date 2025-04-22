@@ -13,8 +13,16 @@ I’m a software engineer with a strong focus on front-end development. I specia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" width="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
 </p>
+
+## Badges
+My Github stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Epignosis1&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epignosis1&layout=compact&theme=radical)
+
 
 <!--
 **Epignosis1/Epignosis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
